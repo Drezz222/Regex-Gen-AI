@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://regex-gen-evdy9vnlo-drezz222s-projects.vercel.app/sitemap.xml
